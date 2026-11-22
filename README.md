@@ -1,6 +1,3 @@
-<h1>Hello!</h1>
-<img alt="Pronouns: She/Her" src="https://img.shields.io/static/v1?label=Pronouns&message=she/her&colorA=000000&colorB=eee8aa">
-
 Hi! I'm Cali :)
 
 I like experimenting with base model LLMs, designing UX, and managing my family of servers and self-hosted infrastructure.
