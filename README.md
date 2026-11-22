@@ -24,7 +24,6 @@ Thanks for stopping by!
 ### Others
 
 [![Apache](https://img.shields.io/badge/Apache_Web_Server-D22128?logo=Apache&logoColor=white)](https://httpd.apache.org/)
-[![Markdown](https://img.shields.io/badge/Markdown-000000logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
 [![Fortinet](https://img.shields.io/badge/Fortinet-DA291C?logo=fortinet&logoColor=white)](https://www.fortinet.com)
 [![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)](https://brew.sh/)
 [![Adruino](https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white)](https://www.arduino.cc/)
@@ -33,6 +32,7 @@ Thanks for stopping by!
 
 ### Uses
 [![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?logo=VSCode&logoColor=white)](https://code.visualstudio.com/)
+[![OpenCode](https://img.shields.io/badge/OpenCode-000?logo=opencode&logoColor=fff)](https://opencode.ai/)
 [![Codex](https://img.shields.io/badge/Codex-555)](https://openai.com/codex/)
 [![Claude Code](https://img.shields.io/badge/Claude_Code-555?logo=claudecode)](https://claude.com/product/claude-code)
 [![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
